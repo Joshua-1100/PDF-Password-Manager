@@ -13,19 +13,22 @@ Features
 ________________________________________
 Screenshots
 Launch the app and select file(s)
+<img width="681" height="427" alt="1_select_files" src="https://github.com/user-attachments/assets/56c1fab6-4648-4aa4-bcfe-dc7e154b303c" />
  
 Add password to unprotected file(s). Click show password if desired.
 Run
- 
+<img width="657" height="707" alt="2_addPassword" src="https://github.com/user-attachments/assets/369ad7b0-def4-4b55-a4b5-f677a6cf5a1f" />
 Results show is lower window.
- 
+  <img width="512" height="172" alt="3_results" src="https://github.com/user-attachments/assets/29a65de9-5f62-4771-9695-aaf2c08a872a" />
 The app preserves the original and creates a protected version.
- 
+<img width="342" height="205" alt="4_filePreservations" src="https://github.com/user-attachments/assets/ea8975a7-3e48-4b8b-8bdd-e4e0b6b3df46" />
+
 Unlocking files is a similar process.
- 
+<img width="508" height="518" alt="5_unlockFiles" src="https://github.com/user-attachments/assets/2630da4c-61ff-4c67-bfcf-7f50a1a81b74" /> 
  
 As with protecting files, unlocking preserves original files and makes copies.
- 
+<img width="432" height="155" alt="6_results" src="https://github.com/user-attachments/assets/6b6c6d7d-3ea1-4035-bd42-86d84a076a06" />
+<img width="340" height="138" alt="7_unlockedPreserved" src="https://github.com/user-attachments/assets/e029d439-9813-4780-8cca-ba2c3ffa3d58" />
 
 ________________________________________
 Requirements
