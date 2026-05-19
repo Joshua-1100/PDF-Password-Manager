@@ -35,7 +35,7 @@ Tkinter is included with most standard Python installations.
 ________________________________________
 Installation
 1. Clone the repo
-git clone https://github.com/YOUR_USERNAME/pdf-password-manager.git
+git clone https://github.com/Joshua-1100/PDF-Password-Manager
 cd pdf-password-manager
 2. Install the dependency
 pip install pypdf
